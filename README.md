@@ -27,11 +27,11 @@ Exploring MongoDB, Express.js, React.js, Node.js and building small practice pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&theme=dark" alt="Most Used Languages" />
-</div>
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&theme=dark)
+
 
 
 ### 📫 Let's Connect!  
