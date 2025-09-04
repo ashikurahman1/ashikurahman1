@@ -27,11 +27,11 @@ Exploring MongoDB, Express.js, React.js, Node.js and building small practice pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📫 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical)
-![Ashikur's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
-![Ashikur's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurrahman1&layout=compact&theme=dark)
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical" alt="GitHub Stats" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark" alt="GitHub Streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&theme=dark" alt="Most Used Languages" width="300"/>
+</div>
 
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
