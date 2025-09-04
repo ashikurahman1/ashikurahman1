@@ -39,6 +39,11 @@ I’m passionate about building **responsive, user-friendly web applications** t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
+📫 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ashikurahman1= &theme=radical)
+![Ashikur's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
+![Ashikur's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurrahman1&layout=compact&theme=dark)
+
 <!--
 **ashikurahman1/ashikurahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
