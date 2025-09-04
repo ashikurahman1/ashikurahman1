@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" />
 
-# Hi, I’m Ashikur Rahman - a Frontend Developer exploring the MERN stack (MongoDB, Express.js, React.js, Next.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building **responsive, user-friendly web applications** that solve real-world problems. I love exploring new technologies and continuously improving my skills to deliver high-quality solutions.  
+** Hi, I’m Ashikur Rahman - a Frontend Developer ** exploring the MERN stack (MongoDB, Express.js, React.js, Next.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building **responsive, user-friendly web applications** that solve real-world problems. I love exploring new technologies and continuously improving my skills to deliver high-quality solutions.  
 
 ## Current Projects & Activities
 ⚡ Personal Portfolio Website  
@@ -28,14 +28,13 @@ Exploring MongoDB, Express.js, React.js, Node.js and building small practice pro
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📫 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?ashikurahman1= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical)
 ![Ashikur's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
 ![Ashikur's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurrahman1&layout=compact&theme=dark)
 
 
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
 <!--
 **ashikurahman1/ashikurahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
