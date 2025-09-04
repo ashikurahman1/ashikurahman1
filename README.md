@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" />
 
-** Hi, I’m Ashikur Rahman - a Frontend Developer ** exploring the MERN stack (MongoDB, Express.js, React.js, Next.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building **responsive, user-friendly web applications** that solve real-world problems. I love exploring new technologies and continuously improving my skills to deliver high-quality solutions.  
+**Hi, I’m Ashikur Rahman - a Frontend Developer** exploring the MERN stack (MongoDB, Express.js, React.js, Next.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building **responsive, user-friendly web applications** that solve real-world problems. I love exploring new technologies and continuously improving my skills to deliver high-quality solutions.  
 
 ## Current Projects & Activities
 ⚡ Personal Portfolio Website  
