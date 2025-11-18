@@ -1,13 +1,25 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" />
+<!-- Banner Image -->
+<img width="1584" height="396" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" alt="Banner Image" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00A6F4&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I'm+Ashikur+Rahman" alt="Typing SVG" /></a>
+<!-- Typing Effect for Greeting -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00A6F4&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I'm+Ashikur+Rahman" alt="Typing SVG" />
+</a>
 
-I am a **Full Stack JavaScript Developer (MERN)**, currently exploring **Next.js, TypeScript, PostgreSQL, and Docker**.  
-I love building **real-world, scalable, and user-friendly web applications**.  
+**Full Stack JavaScript Developer (MERN)**
 
-**Current Activities:**
-- I am exploring **Next.js** and building modern SSR/SSG applications  
-- I’m working on a **ecommerce website** project  
+---
+
+## About Me
+I am passionate about building **real-world, scalable, and user-friendly web applications**.  
+Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to expand my skillset.  
+
+---
+
+## Current Activities
+- Exploring **Next.js** and creating modern SSR/SSG applications  
+- Working on an **ecommerce website** project  
+- Developing a **Task Manager** application  
 
 ## 🛠️ Tech Stack
 ### 🚀 Frontend
