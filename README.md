@@ -3,11 +3,6 @@
   <img width="1584" height="396" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" alt="Banner Image" />
 </p>
 
-<!-- Greeting & Name -->
-<h1 align="center">
-  Hi, I'm <span style="color:#00A6F4;">Ashikur Rahman</span> 
-</h1>
-
 <!-- Typing Effect for Greeting + Professional Topics -->
 <p align="center">
   <a href="https://git.io/typing-svg">
