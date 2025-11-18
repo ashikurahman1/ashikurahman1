@@ -21,36 +21,36 @@ Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to exp
 - Working on an **ecommerce website** project  
 - Developing a **Task Manager** application  
 
-## 🛠️ Tech Stack
-### 🚀 Frontend
+## Tech Stack
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛠️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔒 Authentication & State Management
+### Authentication & State Management
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikurahman1&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&theme=dark)
 
 
-### 📫 Let's Connect!  
+### Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/ashikur-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
