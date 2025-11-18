@@ -1,6 +1,10 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" />
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00A6F4&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I'm+Ashikur+Rahman" alt="Typing SVG" /></a>
 
-**Hi, I’m Ashikur Rahman - a Frontend Developer** exploring the MERN stack (MongoDB, Express.js, React.js, Next.js, Node.js) and modern styling with Tailwind CSS. I’m passionate about building **responsive, user-friendly web applications** that solve real-world problems. I love exploring new technologies and continuously improving my skills to deliver high-quality solutions.  
+I'm a **Full Stack Developer (MERN)**, currently expanding my skills in **Next.js, TypeScript, PostgreSQL, and Docker**.  
+I love building **real-world applications** that are clean, scalable, and user-friendly.  
+Always learning and improving my workflow to become a **remote-ready full-stack engineer**.
 
 ## Current Projects & Activities
 ⚡ Personal Portfolio Website  
@@ -36,6 +40,9 @@ Exploring MongoDB, Express.js, React.js, Node.js and building small practice pro
 
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A6F4&width=435&lines=Thanks+for+visiting;Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+%3A)" alt="Typing SVG" /></a>
 
 <!--
 **ashikurahman1/ashikurahman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
