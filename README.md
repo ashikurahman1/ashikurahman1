@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" />
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=00A6F4&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I'm+Ashikur+Rahman" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00A6F4&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;I'm+Ashikur+Rahman" alt="Typing SVG" /></a>
 
 I am a **Full Stack JavaScript Developer (MERN)**, currently exploring **Next.js, TypeScript, PostgreSQL, and Docker**.  
 I love building **real-world, scalable, and user-friendly web applications**.  
