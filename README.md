@@ -11,8 +11,6 @@
   </ul>
 </div>
 
-<br/>
-
 ## About Me
 I am passionate about building **real-world, scalable, and user-friendly web applications**.  
 Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to expand my skillset.  
