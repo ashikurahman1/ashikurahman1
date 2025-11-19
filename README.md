@@ -49,7 +49,6 @@ Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to exp
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashikurrahman1&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&theme=dark)
 
-
 ### Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/ashikur-dev/" target="_blank">
