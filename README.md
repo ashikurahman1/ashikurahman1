@@ -1,23 +1,27 @@
 <!-- Banner Image -->
-<p align="center">
-  <img width="1584" height="396" src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" alt="Banner Image" />
-</p>
+<img src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" alt="Banner Image" />
+<br/>
 
-<h4 align='center'>Hi, I'm</h4>
-<h1 align='center'>Ashikur Rahman</h4>
-<h3 align='center'>a MERN Stack Developer</h3>
----
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ashikur Rahmann</h1></summary>
+    <!--- typo --->
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=32AFE6&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+JS+Enthusiast;" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
 
 ## About Me
 I am passionate about building **real-world, scalable, and user-friendly web applications**.  
 Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to expand my skillset.  
 
----
-
 ## Current Activities
 - Exploring **Next.js** and creating modern SSR/SSG applications  
 - Working on an **ecommerce website** project  
 - Developing a **Task Manager** application  
+
 
 ## Tech Stack
 ### Frontend
