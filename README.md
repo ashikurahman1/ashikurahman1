@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co.com/N6SWcV7J/Ashikur-Rahman-Linkedin-Profile.png" alt="Banner Image" />
+<img src="https://i.ibb.co.com/nqHXQQCM/Github-Cover.png" alt="Banner Image" />
 <br/>
 
 <!--- title --->
@@ -15,12 +15,12 @@
 
 I am passionate about building **real-world, scalable, and user-friendly web
 applications**.  
-Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to
-expand my skillset.
+Currently, I am exploring **TypeScript, PostgreSQL, and Docker** to expand my
+skillset.
 
 ## Current Activities
 
-- Exploring **Next.js** and creating modern SSR/SSG applications
+- Learning **TypeScript** for safer and scalable web development
 - Working on an **ecommerce website** project
 - Developing a **Task Manager** application
 
@@ -30,6 +30,7 @@ expand my skillset.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -46,6 +47,8 @@ expand my skillset.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextauthdotjs&logoColor=white)
+![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Tools
 
