@@ -13,16 +13,15 @@
 
 ## About Me
 
-I am passionate about building **real-world, scalable, and user-friendly web
-applications**.  
-Currently, I am exploring **TypeScript, PostgreSQL, and Docker** to expand my
-skillset.
+I'm Full Stack Web Developer focused on building real-world, scalable, and user-friendly web applications. Currently working as a developer intern and contributing to production systems, admin dashboards, and SaaS-based products. Strong interest in clean architecture, business-driven features, and continuous learning.
 
-## Current Activities
+## Current Work & Learning
 
-- Learning **TypeScript** for safer and scalable web development
-- Working on an **ecommerce website** project
-- Developing a **Task Manager** application
+- Building a Healthcare Management System for doctors
+  👉 https://medi-care-hms.vercel.app/
+- Developing a SaaS Restaurant POS & Management system with multi-tenant architecture
+- Advancing skills in TypeScript for scalable application development
+- Exploring PostgreSQL and Docker for robust backend and deployment workflows
 
 ## Tech Stack
 
