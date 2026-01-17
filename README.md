@@ -59,8 +59,6 @@ I'm Full Stack Web Developer focused on building real-world, scalable, and user-
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=ashikurahman1&theme=neo_green&graph=false&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashikurahman1&theme=dark)](https://git.io/streak-stats)
-[![Ashikurahman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikurahman1&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashikurahman1/github-readme-activity-graph)
 
 ### Let's Connect!
 
