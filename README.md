@@ -1,6 +1,3 @@
-<img src="https://i.ibb.co.com/nqHXQQCM/Github-Cover.png" alt="Banner Image" />
-<br/>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ashikur Rahman</h1></summary>
