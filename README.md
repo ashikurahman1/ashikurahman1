@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A995FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashikur+Rahman+%F0%9F%91%8B;Full+Stack+Developer+from+Chattogram;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Learning+in+public%2C+one+sprint+at+a+time" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A995FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ashikur+Rahman+%F0%9F%91%8B;Full+Stack+Developer+from+Chattogram;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+fintech+%26+SaaS+products" alt="Typing intro" />
 
 <a href="https://www.linkedin.com/in/ashikur-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/ashikurrdev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -113,29 +113,26 @@ const ashikur = {
   </tr>
 </table>
 
-### 🧪 More things I built
+### 🧪 Database & DevOps work
 
 <div align="center">
 
-<a href="https://github.com/ashikurahman1/danguli-3d"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurahman1&repo=danguli-3d&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" /></a>
 <a href="https://github.com/ashikurahman1/Football-Ticket-Booking-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurahman1&repo=Football-Ticket-Booking-System&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" /></a>
 <a href="https://github.com/ashikurahman1/Next-Express-Docker-CI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurahman1&repo=Next-Express-Docker-CI&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" /></a>
-<a href="https://github.com/ashikurahman1/glassclay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ashikurahman1&repo=glassclay&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" /></a>
 
 </div>
 
 ---
 
-### 📚 Learning in public: 90-day plan (Nov 2026 – Feb 2027)
+### 🔭 Going deeper right now
 
-| Sprint | Topic | Status |
-|---|---|---|
-| 1 | JavaScript deep recall: scope, closures, `this`, building `map` / `filter` / `reduce` from scratch | ✅ Done |
-| 2 | Objects, prototypes, immutability, Map / Set / WeakMap | ✅ Done |
-| 3 | TypeScript foundations, event loop, Node.js internals, REST API with file persistence | 🔄 In progress |
-| 4–6 | DOM, advanced TypeScript (generics, narrowing), streams & API design | ⏳ Next |
-| 7–9 | PostgreSQL modeling, auth (JWT, refresh tokens, RBAC), full backend project | ⏳ Planned |
-| 10–13 | Docker, CI/CD, testing with Vitest & Supertest, case study | ⏳ Planned |
+I already ship full stack apps. Now I'm working on the parts that make them hold up under real load:
+
+- ⚙️ **Node.js internals:** event loop, libuv thread pool, streams and backpressure, worker threads vs cluster
+- 🏗️ **System design:** layered architecture, caching strategies, background job queues
+- 🗄️ **PostgreSQL:** indexing, query plans, transactions and isolation levels
+- 🧪 **Testing:** integration tests with Vitest & Supertest
+- 🐳 **Docker & CI/CD:** container builds and GitHub Actions pipelines
 
 ---
 
@@ -143,7 +140,7 @@ const ashikur = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashikurahman1&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashikurahman1&show_icons=true&count_private=true&bg_color=0a0a0f&title_color=a995ff&icon_color=7c5cff&text_color=c9c9d6&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurahman1&layout=compact&langs_count=6&bg_color=0a0a0f&title_color=a995ff&text_color=c9c9d6&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=ashikurahman1&background=0a0a0f&ring=7c5cff&fire=a995ff&currStreakLabel=a995ff&sideLabels=c9c9d6&dates=8d8d9e&currStreakNum=ffffff&sideNums=ffffff&stroke=2e2660&hide_border=true" />
